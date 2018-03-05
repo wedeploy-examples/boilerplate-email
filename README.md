@@ -1,11 +1,13 @@
-# WeDeploy Email Boilerplate
+# WeDeploy Email [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-This template will help you through the process of deploying a WeDeploy Email service.
+An example of [WeDeploy Email](https://wedeploy.com/docs/email/).
 
-> [Visit the documentation to learn how to start sending emails.](https://wedeploy.com/docs/email/)
+## Instructions
 
-## Related
+1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
+2. Clone this repository.
+3. Open the project with your command line and run `we deploy -p yourproject`.
 
-* [WeDeploy Email Web (JavaScript) Boilerplate](https://github.com/wedeploy/boilerplate-email/tree/web)
-* [WeDeploy Email Android (Java) Boilerplate](https://github.com/wedeploy/boilerplate-email/tree/android)
-* [WeDeploy Email iOS (Swift) Boilerplate](https://github.com/wedeploy/boilerplate-email/tree/ios)
+## License
+
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
